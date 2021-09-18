@@ -28,8 +28,6 @@
 ## CREDITS:
 Orijinal yazar: Thuonghai001
 
-Sahibin YouTube Kanalı: https://www.youtube.com/channel/UCi80Ipndm3QovIn5XisUz3g
-
 Github repo: https://github.com/kmille36/Linux-to-Windows-with-QEMU
 
 ## SORUMLULUK REDDİ:
