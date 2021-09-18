@@ -11,7 +11,7 @@
 
 ### Ve aşağıdaki komutları yapıştırın:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/lrpw11/W11_RDP/main/run.sh`
+1. `wget -O run.sh https://github.com/TatoKingRD/W11_RDP/blob/main/run.sh`
 
 2. `chmod +x run.sh`
 
